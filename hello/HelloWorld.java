@@ -12,4 +12,9 @@ public class HelloWorld{
     public int static getDiff(int a, int b){
         return a-b; 
     }
+
+     // this method get the product the two input values
+    public int static getProduct(int a, int b){
+        return a*b; 
+    }
 }
