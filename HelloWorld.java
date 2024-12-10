@@ -7,4 +7,9 @@ public class HelloWorld{
     public int static getSum(int a, int b){
         return a+b; 
     }
+
+     // this method get the difference the two input values
+    public int static getDiff(int a, int b){
+        return a-b; 
+    }
 }
