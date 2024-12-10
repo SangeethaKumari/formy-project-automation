@@ -17,4 +17,9 @@ public class HelloWorld{
     public int static getProduct(int a, int b){
         return a*b; 
     }
+
+     // this method get the quotient of the two input values
+    public int static getQuotient(int a, int b){
+        return a/b; 
+    }
 }
