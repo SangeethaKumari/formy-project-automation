@@ -1,3 +1,6 @@
+/**
+This class does basic arithmetic operations
+**/
 public class HelloWorld{
     public static void main(String args[]){
         System.out.print.ln("Learning git as well as selenium testing")
